@@ -14,16 +14,16 @@ Actionable Insights: Identified key factors influencing employee turnover.
 # Visualizations
 Here are some of the key insights derived from the analysis:
 
-## Attrition Patterns:
+Attrition Patterns:
 
-## Factors Influencing Attrition:
+Factors Influencing Attrition:
 
 # How to Run
 1. Clone this repository.
 
 2. Open the analysis.ipynb file in Google Colab.
 
-3. ## Note: The dataset is automatically fetched from the repository, so you can run the code directly without manual uploads.
+3. Note: The dataset is automatically fetched from the repository, so you can run the code directly without manual uploads.
 
 # Conclusion
 This analysis provides a data-driven approach to understanding employee churn, helping the organization take proactive steps to improve retention strategies.
